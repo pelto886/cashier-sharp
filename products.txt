@@ -1,0 +1,4 @@
+Product Name,Price
+Widget,9.99
+Gizmo,19.99
+Thingamajig,29.99
